@@ -1,0 +1,1 @@
+El codigo cuenta con varias funciones como Función para agregar nombres, Función para sortear Amigos, Función para eliminar los amigos seleccionados de la lista de Amigos y se actualice,  Función para imprimir resultado de lista.
