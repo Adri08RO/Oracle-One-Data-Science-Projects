@@ -1,0 +1,50 @@
+// Array donde se guardan los nombres
+let listaAmigos = [];
+
+
+// Función para agregar nombres a listaAmigos
+function agregarAmigo() {
+    let  = prompt("Escribe un nombre:");
+    if (nombre) {
+        nombres.push(nombre);
+        console.log(`${nombre} se ha agregado a la lista.`);
+    } else {
+        console.log("No se ha agregado ningún nombre.");
+    }
+}
+
+// Función para sortear amigo
+function sortearAmigo() {
+    if (names.length === 0) {
+        console.log("No hay nombres en la lista. Escriba un nombre primero.");
+        return;
+    }
+
+    //Sortear Amigo de forma random
+    let randomIndex = Math.floor(Math.random() * listaAmigos.length);
+    let seleccionado = listaAmigos[randomIndex];
+
+    console.log(`El amigo secreto sorteado es: ${seleccionado}`);
+    alert(`The selected name is: ${seleccionado}`);
+}
+
+// Función para eliminar los amigos seleccionados de la lista de Amigos y se actualice
+function resultado
+let listaAmigos-seleccionado = listaAmigos
+
+
+// Función para imprimir resultado de lista
+function resultado
+
+let listaAmigos
+
+for (let i = 0; i < listaAmigos.length; i++) {
+    console.log(listaAmigos[i]);
+}
+
+
+
+
+
+}
+
